@@ -1,4 +1,3 @@
-import 'package:Serravalle/screens/splash_screen.dart';
 import 'package:Serravalle/screens/webview_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -16,7 +15,7 @@ class MyApp extends StatelessWidget {
         primaryColor: Color(0xFFB12A26),
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: SplashScreen(),
+      home: WebviewScreen(),
       routes: {WebviewScreen.routeName: (context) => WebviewScreen()},
     );
   }
