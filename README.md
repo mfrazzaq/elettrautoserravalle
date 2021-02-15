@@ -1,6 +1,6 @@
 # Serravalle
 
-A webview app for a website
+A webview app for a auto selling site.
 
 # UI
 ![UI.jpeg](https://theluxek-customer-admin.000webhostapp.com/gitImages/Serravalle.jpg)
