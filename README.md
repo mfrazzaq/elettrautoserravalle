@@ -1,7 +1,9 @@
 # Serravalle
 
-A new Flutter project.
+A webview app for a website
 
+# UI
+![UI.jpeg](https://theluxek-customer-admin.000webhostapp.com/gitImages/Serravalle.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
